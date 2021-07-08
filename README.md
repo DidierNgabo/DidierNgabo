@@ -25,4 +25,5 @@
 
 ## MOST USED PROGRAMMING LANGUAGE
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DidierNgabo&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DidierNgabo)](https://github.com/anuraghazra/github-readme-stats)
+
