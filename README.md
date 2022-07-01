@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working as a fullstack web dev using MERN and MEVN
-- 🌱 I’m currently learning golang,machine learning 
+- 🌱 I’m currently learning golang,flutter 
 - 👯 I’m looking to collaborate on anything
 - 💬 Ask me about anything
 - 📫 How to reach me: ...
