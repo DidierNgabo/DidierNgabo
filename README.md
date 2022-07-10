@@ -11,8 +11,8 @@
 
 
 ## 👨 Contacts
-- [![GMAIL](https://img.shields.io/badge/gmail?style=social&logo=Gmail&color=red)](mailto:diddynu2000@gmail.com)
--  [![GMAIL](https://img.shields.io/badge/linkedin?style=social&logo=Linkedin&color=blue)](https://www.linkedin.com/in/didier-ngabo-uwayo-b41a0b157/)
+- [![GMAIL](https://img.shields.io/badge/gmail-informational?style=social&logo=Gmail&color=red)](mailto:diddynu2000@gmail.com)
+-  [![Linkedin](https://img.shields.io/badge/linkedin-informational?style=social&logo=Linkedin&color=blue)](https://www.linkedin.com/in/didier-ngabo-uwayo-b41a0b157/)
 
 
 
