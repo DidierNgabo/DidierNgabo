@@ -34,10 +34,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   15 hrs 15 mins  ████████░░░░░░░░░░░░░░░░░   32.55 %
-JavaScript   12 hrs 42 mins  ██████▓░░░░░░░░░░░░░░░░░░   27.10 %
-Dart         7 hrs 52 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.81 %
-Other        5 hrs 3 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.77 %
+TypeScript   15 hrs 40 mins  █████████░░░░░░░░░░░░░░░░   36.55 %
+JavaScript   10 hrs 30 mins  ██████░░░░░░░░░░░░░░░░░░░   24.50 %
+Dart         5 hrs 48 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.56 %
+Other        5 hrs 3 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.78 %
 ```
 
 <!--END_SECTION:waka-->
