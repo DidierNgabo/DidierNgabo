@@ -34,8 +34,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-Java         14 hrs 14 mins  ██████████████████▓░░░░░░   74.13 %
-Other        2 hrs 5 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.87 %
+Java         25 hrs 17 mins  ████████████████████▓░░░░   82.81 %
+Other        2 hrs 12 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.24 %
 ```
 
 <!--END_SECTION:waka-->
