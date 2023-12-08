@@ -17,6 +17,8 @@
 
 
 ## Skills:
+[![Java](https://img.shields.io/badge/java-★★★★★-informational?style=flat&logo=Java&color=0096ff)](https://nestjs.com/)
+[![SpringBoot](https://img.shields.io/badge/springboot-★★★★★-informational?style=flat&logo=Springboot&color=0096ff)](https://nestjs.com/)
 [![Nestjs](https://img.shields.io/badge/nestjs-★★★★★-informational?style=flat&logo=Nestjs&color=0096ff)](https://nestjs.com/)
 [![Express](https://img.shields.io/badge/express-★★★★★-informational?style=flat&logo=Express&color=0096ff)](https://expressjs.com/)
 [![React](https://img.shields.io/badge/React-★★★★★-informational?style=flat&logo=React&color=0096ff)](https://reactjs.org/)
